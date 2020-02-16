@@ -46,11 +46,11 @@ ul {
     center;
 }
 .container {
-  max-width: 960px;
+  max-width: 980px;
   margin: 1rem auto;
   overflow: auto;
   padding: 0 2rem;
-  height: 960px;
+  height: 1080px;
 }
 .form-group {
   margin: 1rem 0;
